@@ -15,7 +15,7 @@ st.set_page_config(
 # Function to load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('time_productivity_data.csv')
+    df = pd.read_csv('data/time_productivity_data.csv')
     # Data type conversions
     df['User ID'] = df['User ID'].astype(str)
     df['Age'] = df['Age'].astype(int)
