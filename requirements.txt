@@ -3,7 +3,6 @@ pandas==1.5.3
 plotly==5.15.0
 scikit-learn==1.2.2
 numpy==1.25.0
-pyarrow==9.0.0
-statsmodels==0.13.2
-cython==0.29.36
+pyarrow==6.0.1
+statsmodels
 
