@@ -6,3 +6,5 @@ numpy==1.25.0
 pyarrow==10.0.1
 cmake==3.26.4
 statsmodels==0.13.2
+cython==0.29.36
+
